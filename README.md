@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @aqdo69
+- 👀 I’m interested in ...
+Python Programming, interacting with APIs, automation
+- 🌱 I’m currently learning ...
+- Python, Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- pixlegamer1yt@gmail.com
+
+<!---
+aqdo69/aqdo69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
